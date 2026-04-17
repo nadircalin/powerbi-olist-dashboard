@@ -1,4 +1,4 @@
-# 📊 Olist E-Commerce Sales Dashboard (Power BI)
+# 📊 Power BI dashboard analysing sales, revenue trends, and customer geography for Brazilian e-commerce platform Olist.
 
 ## 📌 Project Overview
 
