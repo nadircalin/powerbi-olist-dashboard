@@ -4,7 +4,7 @@
 
 This project presents an interactive Power BI dashboard built using the Brazilian Olist e-commerce dataset. The goal of the analysis is to explore sales performance, revenue trends, and customer distribution across different regions and product categories.
 
-The dashboard provides a clear, business-focused view of key metrics and enables users to interactively filter and analyze data.
+The dashboard provides a clear, business-focused view of key metrics and enables users to interactively filter and analyse data.
 
 ---
 
