@@ -39,7 +39,6 @@ This dashboard gives a business analyst or executive a complete picture of Olist
 
 ### Interactive filters
 - **State dropdown** — filter every visual by customer state simultaneously
-- **Date slicer** — isolate any time period across all charts
 
 ---
 
