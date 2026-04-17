@@ -76,7 +76,7 @@ Avg Review Score = AVERAGE(olist_order_reviews_dataset[review_score])
 
 ## How to Use
 
-1. Download `Olist_Ecommerce_Sales_Dashboard.pbix`
+1. Download the dashboard file here: [Olist_Ecommerce_Sales_Dashboard.pbix](https://drive.google.com/file/d/1FiCK6kPaWH7Pj3_F7sY09O43qHP1NcT-/view?usp=share_link)
 2. Open in Power BI Desktop (free download at powerbi.microsoft.com)
 3. Use the state dropdown to filter by region
 4. Use the date slicer to analyse specific time periods
