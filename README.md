@@ -147,4 +147,4 @@ Built by **Nadir Calin** as part of a data analyst portfolio.
 
 This project demonstrates the full analyst workflow — data modelling, measure creation, visual design, and business storytelling — using a real-world public dataset.
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/nadircalin/?skipRedirect=true)
