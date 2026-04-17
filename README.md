@@ -23,7 +23,7 @@ The dashboard provides a clear, business-focused view of key metrics and enables
 * Power BI
 * DAX (Data Analysis Expressions)
 * Data Modeling
-* Data Visualization
+* Data Visualisation
 
 ---
 
@@ -37,7 +37,7 @@ The dashboard provides a clear, business-focused view of key metrics and enables
 
 ---
 
-### 📈 Visualizations
+### 📈 Visualisations
 
 * Revenue Trend Over Time (Line Chart)
 * Revenue by State (Bar Chart)
